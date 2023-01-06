@@ -1,2 +1,3 @@
-# Data-Structure
-"Data structure in C YanWeimin" source code, using c++ programming language
+# 数据结构源码
+数据结构（C语言版 第2版）——严蔚敏 章节及练习题源码。
+使用C++语言编写
