@@ -1,19 +1,16 @@
 [中文](README.md)|[ENGLISH](README_EN.md)
 # Brief Introduction
-***
 BOOK: DATA STRUCTURE IN C (2ND EDITION).YanWeimin 
 CODE: Chapter and its exercise source
 Programming Language: C++
 
 #  How to run
-***
 Reload the CMakeLists file
 
 ## 1.1 Operating environment
 IDE：CLion
 
 # Project Summary
-***
 ## 2.1 Table
 | Chapter | Name  |
 |:-------:|:---:|
