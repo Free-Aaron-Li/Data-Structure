@@ -1,8 +1,8 @@
 [中文](README.md)|[ENGLISH](README_EN.md)
 # Brief Introduction
-BOOK: DATA STRUCTURE IN C (2ND EDITION).YanWeimin 
-CODE: Chapter and its exercise source
-Programming Language: C++
+BOOK: DATA STRUCTURE IN C (2ND EDITION).YanWeimin  
+CODE: Chapter and its exercise source  
+Programming Language: C++  
 
 #  How to run
 Reload the CMakeLists file
