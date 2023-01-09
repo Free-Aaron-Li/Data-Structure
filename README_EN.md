@@ -2,7 +2,7 @@
 # Brief Introduction
 BOOK: DATA STRUCTURE IN C (2ND EDITION).YanWeimin  
 CODE: Chapter and its exercise source  
-Programming Language: C++  
+Programming Language: C++ C
 
 #  How to run
 Reload the CMakeLists file
