@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 [中文](Source/DataStructure_Cpp/README.md)|[ENGLISH](Source/DataStructure_Cpp/README_EN.md) 
 =======
 [中文](README.md)|[ENGLISH](README_EN.md) 
 >>>>>>> f174325fb5a7331f0dd169a73de19e7472ede4cc
+=======
+[中文](README.md)|[ENGLISH](README_EN.md) 
+>>>>>>> e75805b077f826e5f7a4eaad27aaa591abc43baa
 # 简介
 数据结构（C语言版 第2版）——严蔚敏 章节及练习题源码。 
 
