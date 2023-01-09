@@ -1,10 +1,7 @@
 # Prerequisites
 *.d
 .idea/
-<<<<<<< HEAD
 cmake-build-debug/
-=======
->>>>>>> e75805b077f826e5f7a4eaad27aaa591abc43baa
 
 # Compiled Object files
 *.slo
